@@ -61,3 +61,8 @@ Thumbs.db
 lib/
 lib/
 dependencies/
+
+# Ignore specific text files
+compressed.txt
+decompressed.txt
+

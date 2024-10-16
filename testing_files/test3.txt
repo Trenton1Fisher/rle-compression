@@ -1,7 +1,9 @@
-2A2B2C2D3A3B2CD3AB3C4D4A4B4A7C7D2
+AABBCCDDAAABBBCCDAAABCCCDDDDAAAABBBBAAAACCCCCCCDDDDDDD
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-3B3A3C3D4E4A4B2CD2A2
+BBBAAACCCDDDEEEEAAAABBBBCCDAA
+
 Curabitur pretium tincidunt lacus. 
 Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
-2A2B3C3D1
+AABBCCCDDD

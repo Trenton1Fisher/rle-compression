@@ -27,7 +27,7 @@ public class Main {
                     }
                     break;
                 case "2":
-                    decompressor.decompress("../compressed.txt");
+                    //decompressor.decompress("../compressed.txt");
                     break;
                 default:
                     commandLine.printString("Invalid input. Please enter 1 or 2.");

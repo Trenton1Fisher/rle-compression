@@ -1,0 +1,11 @@
+AA   BB   CC   DDDDDDDDD
+AAAAAAAAABBBBBBB
+
+This is a sample text that includes multiple lines 
+and a variety of characters. The purpose is to see how well 
+the RLE compression handles spaces and line breaks. 
+
+C  C C  C C
+DDDDD
+There are also some irregularities in spacing and 
+newlines that should be accounted for during compression.
