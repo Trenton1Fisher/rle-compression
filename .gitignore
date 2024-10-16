@@ -1,0 +1,63 @@
+# Java class files
+*.class
+
+# Java archives
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# NetBeans specific files
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+build/
+*.nb-configuration.xml
+
+# IntelliJ IDEA specific files
+out/
+*.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle files
+.gradle/
+build/
+out/
+
+# Maven files
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.lastUpdated
+
+# Others
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Dependency directories
+lib/
+lib/
+dependencies/
